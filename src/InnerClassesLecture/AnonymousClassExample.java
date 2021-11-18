@@ -1,4 +1,4 @@
-package lecture;
+package InnerClassesLecture;
 
 import java.util.Random;
 

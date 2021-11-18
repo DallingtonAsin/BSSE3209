@@ -1,4 +1,4 @@
-package lecture;
+package InnerClassesLecture;
 
 class StaticInnerClass{
 	  static String parent_name = "A";
