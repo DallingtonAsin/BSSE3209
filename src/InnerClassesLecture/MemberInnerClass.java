@@ -1,4 +1,4 @@
-package InnerClassesLecture;
+package innerClassesLecture;
 
 class MemberInnerClass{
     static String parent_name ="X";

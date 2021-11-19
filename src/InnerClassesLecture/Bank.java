@@ -1,6 +1,5 @@
-package InnerClassesLecture;
+package innerClassesLecture;
 
-import java.util.*;
 public class Bank {
 
     public static void getTotalPayable(String bank, double principal, int years) {

@@ -1,4 +1,4 @@
-package InnerClassesLecture;
+package innerClassesLecture;
 
 public class LocalInnerClass {
 	  

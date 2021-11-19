@@ -1,4 +1,4 @@
-package InnerClassesLecture;
+package innerClassesLecture;
 
 abstract class AnonymousInner {
 	   public abstract void mymethod();
