@@ -35,7 +35,7 @@ public class Master {
 	void printInterest(double principal, int time) {
 		// local inner class
 		class InterestCalculator{
-			private double rate = 0.5;
+			private final double rate = 0.5; // constant
 			public double getInterest() {
 				return principal*rate*time*0.01;
 			}
